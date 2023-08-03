@@ -7,4 +7,4 @@ As a software engineer, I am passionate about building efficient and scalable we
 ## ⚡️ A quick introduction
 * 🌱 I’m currently learning Spring Core and spring boot.
 + 💼 I'm open to freelancing projects.
-+ 💼 I trained as Full Stack Developer at Fawry Company.    
+- 🔭 I trained as Full Stack Developer at Fawry Company.    
