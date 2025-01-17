@@ -8,4 +8,5 @@ As a software engineer, I am passionate about building efficient and scalable we
 * 🌱 I’m currently learning Spring Core and Spring Boot.
 + 💼 I'm open to freelancing projects.
 - 🔭 I trained as a Full Stack Developer at Fawry Company.
-- 🔭 I worked as a Software Developer at Smart Cards Applications Company.     
+- 🔭 I worked as a Software Developer at Smart Cards Applications Company.
+- 🔭 I was a Java Software Developer at IT-RANKS TECHNOLOGY Company.         
